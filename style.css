@@ -1,0 +1,66 @@
+#container1{
+    background: url(background.jpg);
+    background-position: none;
+    background-size: 1600px; 
+}
+#login{
+    color: ghostwhite;
+    font-size: 20px;
+}
+#getstr{
+    padding: 10px;
+    background-color: whitesmoke;
+    color: black;
+    font-weight: 600;
+    margin: 10px;
+    margin-bottom: 150px;
+}
+li {
+    margin: 5px;
+}
+
+.con11{
+    margin-left: 100px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    max-width: 500px;
+}
+
+h1{
+    font-size: 60px;
+
+}
+#head{
+    margin-top: 130px;
+}
+#img{
+    margin-top: 100px;
+}
+#getstr{
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin-left: 100px;
+}
+#container2{
+        background: black;
+}
+#h1{
+    font-size: 60px;
+    letter-spacing: 4px;
+}
+#con21{
+    padding-top: 100px;
+    letter-spacing: 2px;
+    max-width: 620px;
+    text-align: center;
+    padding-bottom: 100px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.img2{
+    width: 30%;
+    margin: 20px;
+}
